@@ -1,2 +1,3 @@
 New Text Doc.
 document updated
+git pull updated file
